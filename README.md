@@ -1,13 +1,13 @@
 # Statistical Learning 1
 
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![pandas](https://img.shields.io/badge/pandas-latest-150458.svg?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-latest-013243.svg?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-11557c.svg)
-![Seaborn](https://img.shields.io/badge/Seaborn-latest-3776AB.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E.svg?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
+![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey?logo=creativecommons&logoColor=white)
 
 Repositorio de proyectos y tareas del curso de Aprendizaje Estadístico (Statistical Learning).
 
