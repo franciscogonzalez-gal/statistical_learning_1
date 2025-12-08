@@ -5,7 +5,7 @@
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-3776AB)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey?logo=creativecommons&logoColor=white)
 
